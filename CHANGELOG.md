@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-07-16)
+## Unreleased (2024-07-21)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`ead1c3b`](https://github.com/stdlib-js/stdlib/commit/ead1c3b780527d8068d9c076e85688be94d53775) - **chore:** update package meta data [(#2640)](https://github.com/stdlib-js/stdlib/pull/2640) _(by stdlib-bot, Athan Reines)_
 -   [`06fd785`](https://github.com/stdlib-js/stdlib/commit/06fd785919d2ef770b5a2bffd69dd4d3c36e8294) - **feat:** add C implementation for `math/base/special/ceil2` [(##2602)](#2602) _(by Gunj Joshi)_
 
 </details>
@@ -34,8 +35,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Gunj Joshi
 
 </section>
